@@ -7,7 +7,8 @@ Purpose of the repository:octocat: is to have a base application setup for sprin
 | Backend Engine | JAVA Spring Boot |
 | DataBase | MySql  |
 | DB Migration | FlyDB | 
-| User Authentication| JWT with custom schema |
+| ORM | myBatis |
+| Authentication/ Authorization | JWT with custom schema |
 
 
 ## TODOs
@@ -18,7 +19,7 @@ Purpose of the repository:octocat: is to have a base application setup for sprin
 - [x] Response Wrapper / Pagination
 - [x] myBatis
 - [x] User Service
-- [ ] FlyDB Integration
+- [x] FlyDB Integration
 - [ ] JWT Integration
 - [ ] Sample Restricted Routes
 - [ ] Documentation
