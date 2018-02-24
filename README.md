@@ -21,7 +21,8 @@ Purpose of the repository:octocat: is to have a base application setup for sprin
 - [ ] FlyDB Integration
 - [ ] JWT Integration
 - [ ] Sample Restricted Routes
-- [ ] Unit Testing
 - [ ] Documentation
+- [ ] Swagger
+- [ ] Unit Testing
 - [ ] MongoDB Integration
 - [ ] Socketio for Java
