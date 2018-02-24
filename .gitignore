@@ -1,1 +1,2 @@
-springboot-starter-gradle/gradle
+/.gradle/
+/bin/
