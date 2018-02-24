@@ -7,6 +7,8 @@ import org.springframework.context.annotation.Configuration;
 
 import com.springapp.services.HelloWorldService;
 import com.springapp.services.UserService;
+import com.springapp.services.filters.CORSFilter;
+
 
 @ApplicationPath("/api")
 @Configuration
@@ -22,5 +24,8 @@ public class JerseyConfig extends ResourceConfig{
 		// Services
 		register(HelloWorldService.class);
 		register(UserService.class);
+
+		// Filters
+		register(CORSFilter.class);
 	}	
 }

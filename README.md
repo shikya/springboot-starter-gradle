@@ -13,8 +13,8 @@ Purpose of the repository:octocat: is to have a base application setup for sprin
 ## TODOs
 
 - [x] Springboot installation
-- [X] Hello World Service
-- [ ] CORS
+- [x] Hello World Service
+- [x] CORS
 - [ ] myBatis
 - [ ] User Service
 - [ ] FlyDB Integration
