@@ -31,7 +31,7 @@ dependencies {
     testCompile('org.springframework.boot:spring-boot-starter-test')
 
 	// Mybatis ORM 
-	//compile('org.mybatis.spring.boot:mybatis-spring-boot-starter:1.3.1')
+	compile('org.mybatis.spring.boot:mybatis-spring-boot-starter:1.3.1')
 
 	// Flyway
 	//compile('org.flywaydb:flyway-core')
