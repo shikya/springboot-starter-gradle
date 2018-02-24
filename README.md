@@ -2,13 +2,13 @@
 
 Purpose of the repository:octocat: is to have a base application setup for spring enviornemnt.
 
-| Feature       | Component     |
-| ------------- | ------------- |
-| Backend Engine | JAVA Spring Boot |
-| DataBase | MySql  |
-| DB Migration | FlyDB | 
-| ORM | myBatis |
-| Authentication/ Authorization | JWT with custom schema |
+| Feature       | Component     | Usage |
+| ------------- | ------------- | ----- |
+| Backend Engine | JAVA Spring Boot | Powers the entire application |
+| DataBase | MySql  | Store Persistant Objects |
+| DB Migration | FlyDB | Migrates Initial Database and Schema |
+| ORM | myBatis | Object relational Mapper |
+| Authentication/ Authorization | JWT with custom schema | Identify user over API calls |
 
 
 ## TODOs
